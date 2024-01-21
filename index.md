@@ -8,3 +8,4 @@
 layout: home
 ---
 
+<center><img src="https://avatars.githubusercontent.com/u/2630482" width="100" height="100" alt="MPTCP"></center>
