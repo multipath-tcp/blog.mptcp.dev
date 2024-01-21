@@ -1,8 +1,13 @@
-# Angel Project
+---
+layout: post
+title:  "Angel Project"
+---
 
 ## Introduction
 
 This is the first post on my new blog, an introduction is then mandatory!
+
+<!--more-->
 
 ### Multipath TCP
 

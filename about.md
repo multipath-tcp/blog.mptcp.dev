@@ -1,4 +1,8 @@
-# Matthieu Baerts
+---
+layout: page
+title: Matthieu Baerts
+permalink: /about/
+---
 
 <center><img src="https://avatars.githubusercontent.com/u/768677" width="100" height="100" alt="Matthieu Baerts"></center>
 
