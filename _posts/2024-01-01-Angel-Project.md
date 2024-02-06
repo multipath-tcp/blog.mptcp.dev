@@ -39,9 +39,10 @@ different follow-up -- and also around the tests area: selftests, packetdrill,
 and mainly the CI infrastructure. I was doing that as part of my job at
 [Tessares](https://www.tessares.net).
 
-[^fork]: Mainly because the modifications were also impacting the "plain" TCP
-connections (and more), and that would have impacted a lot of the overall
-maintenance work.
+[^fork]:
+    Mainly because the modifications were also impacting the "plain" TCP
+    connections (and more), and that would have impacted a lot of the
+    overall maintenance work.
 
 ### This Angel Project
 
