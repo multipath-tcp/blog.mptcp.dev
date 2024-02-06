@@ -5,7 +5,8 @@ title:  "Angel Project"
 
 ## Introduction
 
-This is the first post on my new blog, an introduction is then mandatory!
+This is the first post on my new blog, an introduction is then mandatory! Check
+here to read it.
 
 <!--more-->
 
