@@ -83,11 +83,8 @@ Most of my work during that period was around the maintenance area, including
 a migration of a part of the CI work to validate tests. I admit, nothing
 fascinating, but still very important work.
 
-The visual changes are:
-
-- Patches and reviews on Netdev Mailing list: [Lore](https://lore.kernel.org/netdev/?q=f%3Amatttbe%40kernel.org+d%3A20231101..20231231)
-- Patches, reviews, meetings, applying patches: [Lore](https://lore.kernel.org/mptcp/?q=f%3Amatttbe%40kernel.org+d%3A20231101..20231231)
-- GitHub Actions running tests: [First validations](https://github.com/matttbe/mptcp_net-next/actions/workflows/tests.yml)
+The most visual change is having GitHub Actions running tests:
+[First validations](https://github.com/matttbe/mptcp_net-next/actions/workflows/tests.yml)
 
 ### GitHub Actions
 
