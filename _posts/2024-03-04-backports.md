@@ -53,6 +53,11 @@ On the maintainers side, they have to do a few things:
   tests for us, and they notify us in case of regression. Of course, this works
   only if the tests are reliable, which is not always easy to have.
 
+What can be a bit hard for the maintainers, is that a new stable version is
+usually published soon after the first notification, sometimes just 1 or 2 days
+after. That doesn't let a lot of time to interrupt other tasks to look at them.
+But it is always possible to ask to hold some patches, or revert them after.
+
 Around 125 patches related to MPTCP have been added to the different kernel
 versions in February. 33 patches had to be adapted to older versions. 6 other
 patches have not been backported, because the conflicts were too important, and
