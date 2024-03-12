@@ -62,7 +62,11 @@ But it is always possible to ask to hold some patches, or to revert them after.
 Around 125 patches related to MPTCP have been added to the different kernel
 versions in February. 33 patches had to be adapted to older versions. 6 other
 patches have not been backported, because the conflicts were too important, and
-the issues they were fixing were not considered as serious enough.
+the issues they were fixing were not considered as serious enough. That's a lot
+of patches in once. These fixes were not urgent, and they have probably be
+delayed due to some people travelling, and the Linux kernel project being
+accepted as a [CVE Numbering Authority (CNA)](http://www.kroah.com/log/blog/2024/02/13/linux-is-a-cna/)
+for vulnerabilities found in Linux.
 
 
 ## Preparing the future v6.9
