@@ -8,4 +8,4 @@
 layout: home
 ---
 
-<center><img src="https://user-images.githubusercontent.com/768677/219029765-c7ae363d-034f-4755-a7b0-543a4ea4debf.svg" width="100" alt="MPTCP"></center>
+<center><img src="/assets/mptcp_logo.svg" width="100" alt="MPTCP"></center>
