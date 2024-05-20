@@ -36,7 +36,9 @@ linked to the CI:
 - Using [runners with KVM support](https://github.com/multipath-tcp/mptcp_net-next/issues/474).
 - Validating [MPTCP BPF tests](https://github.com/multipath-tcp/mptcp_net-next/issues/406).
 - Switching to [`virtme-ng`](https://github.com/multipath-tcp/mptcp_net-next/issues/472).
-- Tracking regressions by [publishing tests results](https://github.com/multipath-tcp/mptcp_net-next/issues/473).
+- Tracking [PacketDrill subtests](https://github.com/google/packetdrill/pull/83).
+- Tracking regressions by [publishing tests results](https://github.com/multipath-tcp/mptcp_net-next/issues/473),
+  and displaying them on a [website](https://ci-results.mptcp.dev/flakes.html).
 
 ### GitHub Actions and KVM support
 
