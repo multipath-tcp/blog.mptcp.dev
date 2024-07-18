@@ -17,7 +17,7 @@ and make sure to have a better and safer Internet space for everyone.
 
 <!--more-->
 
-## The European Union must keep funding free software
+## The EU must keep funding free software
 
 Open Letter to the European Commission.
 
