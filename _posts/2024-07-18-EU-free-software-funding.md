@@ -3,7 +3,7 @@ layout: post
 title:  "Open Letter to the European Commission"
 ---
 
-As mentioned in the [About](about) page, this project is currently funded
+As mentioned in the [About](/about) page, this project is currently funded
 through [NGI0 Core](https://nlnet.nl/core), a fund established by
 [NLnet](https://nlnet.nl) with financial support from the European Commission's
 [Next Generation Internet](https://ngi.eu) program.
