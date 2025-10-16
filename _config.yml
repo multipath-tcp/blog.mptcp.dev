@@ -30,8 +30,6 @@ plugins:
 header_pages:
   - about.md
 
-# Set to `true` to show excerpts on the homepage.
-show_excerpts: true
 excerpt_separator: "<!--more-->"
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
@@ -45,6 +43,9 @@ minima:
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
   skin: auto
+
+  # Set to `true` to show excerpts on the homepage.
+  show_excerpts: true
 
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023)
