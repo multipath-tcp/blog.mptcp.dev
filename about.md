@@ -12,6 +12,17 @@ Mastodon:
 - [Matt](https://fosstodon.org/@matttbe)
 - [MPTCP](https://social.kernel.org/mptcp)
 
+## Support
+
+If you like my work and wish me to continue doing so, you can become a sponsor
+via [LiberaPay](https://liberapay.com/matttbe),
+[GitHub](https://github.com/sponsors/matttbe) or
+[Patreon](https://patreon.com/matttbe).
+
+Please [contact me](mailto:matttbe@kernel.org) for professional collaborations,
+short or long missions, or for financial support for my contributions to the
+maintenance of MPTCP and various apps around it.
+
 ## Funding
 
 This project is funded through [NGI0 Core](https://nlnet.nl/core), a fund
